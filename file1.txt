@@ -1,0 +1,6 @@
+hi 
+helooo
+ls pwd
+cat
+touch
+vi filename
